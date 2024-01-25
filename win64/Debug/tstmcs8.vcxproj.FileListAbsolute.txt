@@ -1,0 +1,2 @@
+D:\VScode\TSET\win64\Debug\tstmcs8.exe
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\win64\Debug\tstmcs8.exe

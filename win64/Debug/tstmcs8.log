@@ -1,0 +1,104 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  tstmcs8.c
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(142,7): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(143,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(151,12): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(156,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(162,12): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(166,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(171,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(173,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(181,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(199,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(205,11): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(207,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(211,12): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(250,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(291,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(294,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(297,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(300,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(303,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(306,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(309,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(312,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(315,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(318,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(321,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(324,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(327,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(330,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(333,46): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(288,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(289,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(290,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(291,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(292,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(293,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(294,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(295,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(296,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(297,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(298,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(299,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(300,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(301,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(302,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(303,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(304,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(305,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(306,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(307,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(308,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(309,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(310,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(311,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(312,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(313,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(314,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(315,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(316,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(317,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(318,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(319,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(320,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(321,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(322,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(323,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(324,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(325,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(326,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(327,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(328,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(329,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(330,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(331,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(332,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(333,49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(334,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(335,31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(337,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(340,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(368,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(369,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(370,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(371,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(372,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(373,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(374,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(375,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(376,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(377,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(378,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(379,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(380,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(381,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(382,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(383,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(451,55): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(452,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(258): warning C4716: “get_time_now”: 必须返回一个值
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(279): warning C4716: “filename_settting”: 必须返回一个值
+E:\AAA毕设相关\八通道采集卡资料labview\TSET\tstmcs8.c(402): warning C4716: “read_data”: 必须返回一个值
+  tstmcs8.vcxproj -> E:\AAA毕设相关\八通道采集卡资料labview\TSET\win64\Debug\tstmcs8.exe
